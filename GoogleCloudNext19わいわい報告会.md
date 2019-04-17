@@ -7,4 +7,5 @@ GothamGoにいってきた！（体調不良のためリモートかも） @tenn
 ---
 * mogami
   * takashi
+   
   
